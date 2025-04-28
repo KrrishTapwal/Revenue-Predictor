@@ -1,0 +1,241 @@
+Year,Quarter,Region,Business Unit,Employee Count,Revenue,Operating Income,Net Income
+2020,Q1,North America,Digital Workplace,1018,103.38,7.66,-4.5
+2020,Q1,North America,Cloud Solutions,1901,297.37,31.95,17.9
+2020,Q1,North America,Enterprise Computing,338,287.18,48.32,41.36
+2020,Q1,Europe,Digital Workplace,1594,66.52,6.28,-8.82
+2020,Q1,Europe,Cloud Solutions,1547,238.82,35.5,29.03
+2020,Q1,Europe,Enterprise Computing,455,68.94,5.85,-1.05
+2020,Q1,Asia-Pacific,Cloud Solutions,1446,139.15,25.25,13.74
+2020,Q1,Asia-Pacific,Cloud Solutions,1557,133.96,25.71,20.07
+2020,Q1,Asia-Pacific,Enterprise Computing,1808,290.06,27.69,15.99
+2020,Q1,India,Cloud Solutions,689,100.55,10.13,-3.68
+2020,Q1,India,Cloud Solutions,1885,228.15,43.82,26.89
+2020,Q1,India,Enterprise Computing,857,129.04,12.91,2.04
+2020,Q2,North America,Digital Workplace,1961,104.4,16.08,-2.66
+2020,Q2,North America,Cloud Solutions,1525,288.41,51.64,41.04
+2020,Q2,North America,Enterprise Computing,307,173.28,30.17,10.65
+2020,Q2,Europe,Cloud Solutions,1232,171.625,22.97,9.0
+2020,Q2,Europe,Cloud Solutions,1571,272.49,29.93,18.12
+2020,Q2,Europe,Enterprise Computing,1023,75.66,4.77,-1.74
+2020,Q2,Asia-Pacific,Digital Workplace,509,123.51,22.48,14.28
+2020,Q2,Asia-Pacific,Cloud Solutions,622,171.625,12.7,7.58
+2020,Q2,Asia-Pacific,Enterprise Computing,1542,73.69,6.76,-11.71
+2020,Q2,India,Digital Workplace,909,82.47,14.05,0.02
+2020,Q2,India,Cloud Solutions,1138,221.49,34.65,19.43
+2020,Q2,India,Enterprise Computing,1845,224.89,42.43,34.79
+2020,Q3,North America,Cloud Solutions,1307,148.74,24.93,16.13
+2020,Q3,North America,Cloud Solutions,1315,296.02,32.47,25.91
+2020,Q3,North America,Enterprise Computing,1995,237.15,43.99,25.95
+2020,Q3,Europe,Digital Workplace,1359,226.79,18.78,9.09
+2020,Q3,Europe,Cloud Solutions,929,258.55,31.64,15.3
+2020,Q3,Europe,Enterprise Computing,1152,197.66,13.75,-3.94
+2020,Q3,Asia-Pacific,Cloud Solutions,1663,188.31,9.92,-8.98
+2020,Q3,Asia-Pacific,Cloud Solutions,988,132.26,19.54,3.62
+2020,Q3,Asia-Pacific,Enterprise Computing,702,98.09,16.01,2.27
+2020,Q3,India,Digital Workplace,999,297.39,15.45,7.06
+2020,Q3,India,Cloud Solutions,1903,54.44,6.98,1.43
+2020,Q3,India,Enterprise Computing,776,151.1,23.69,4.6
+2020,Q4,North America,Digital Workplace,1399,108.73,17.42,9.63
+2020,Q4,North America,Cloud Solutions,1721,204.41,28.54,19.5
+2020,Q4,North America,Enterprise Computing,1698,58.3,4.88,-6.18
+2020,Q4,Europe,Digital Workplace,1048,227.21,24.4,4.88
+2020,Q4,Europe,Cloud Solutions,236,145.87,8.16,-10.84
+2020,Q4,Europe,Enterprise Computing,635,145.32,27.14,10.01
+2020,Q4,Asia-Pacific,Digital Workplace,588,51.13,7.56,-12.27
+2020,Q4,Asia-Pacific,Cloud Solutions,817,192.5,37.75,30.15
+2020,Q4,Asia-Pacific,Enterprise Computing,868,168.02,24.22,4.42
+2020,Q4,India,Cloud Solutions,1240,251.97,23.48,12.09
+2020,Q4,India,Cloud Solutions,848,294.22,35.52,27.59
+2020,Q4,India,Enterprise Computing,206,80.92,5.56,-12.38
+2021,Q1,North America,Digital Workplace,1678,281.38,54.49,40.12
+2021,Q1,North America,Cloud Solutions,371,283.64,32.62,15.15
+2021,Q1,North America,Enterprise Computing,674,149.95,29.6,11.79
+2021,Q1,Europe,Digital Workplace,510,102.01,12.74,3.47
+2021,Q1,Europe,Cloud Solutions,734,60.13,5.07,-12.2
+2021,Q1,Europe,Enterprise Computing,630,260.41,31.13,24.99
+2021,Q1,Asia-Pacific,Digital Workplace,1005,86.12,9.14,-0.11
+2021,Q1,Asia-Pacific,Cloud Solutions,681,273.99,46.65,31.54
+2021,Q1,Asia-Pacific,Enterprise Computing,1637,270.04,25.07,7.71
+2021,Q1,India,Digital Workplace,1055,60.32,8.39,0.07
+2021,Q1,India,Cloud Solutions,1592,149.05,22.72,17.69
+2021,Q1,India,Enterprise Computing,587,206.9,23.09,3.31
+2021,Q2,North America,Digital Workplace,1535,91.63,11.92,4.45
+2021,Q2,North America,Cloud Solutions,1067,250.12,49.64,36.31
+2021,Q2,North America,Enterprise Computing,1007,213.52,37.2,27.71
+2021,Q2,Europe,Digital Workplace,1636,138.59,27.67,16.69
+2021,Q2,Europe,Cloud Solutions,1364,59.63,8.09,-3.68
+2021,Q2,Europe,Enterprise Computing,523,62.33,6.87,-11.11
+2021,Q2,Asia-Pacific,Digital Workplace,1344,192.12,12.92,4.9
+2021,Q2,Asia-Pacific,Cloud Solutions,1415,272.07,34.52,23.59
+2021,Q2,Asia-Pacific,Enterprise Computing,903,76.99,8.6,-6.55
+2021,Q2,India,Digital Workplace,1526,88.86,6.17,-9.6
+2021,Q2,India,Cloud Solutions,591,236.91,39.71,30.71
+2021,Q2,India,Enterprise Computing,1772,116.55,6.66,0.21
+2021,Q3,North America,Digital Workplace,1851,175.26,24.66,10.44
+2021,Q3,North America,Cloud Solutions,1797,259.26,34.63,22.93
+2021,Q3,North America,Enterprise Computing,1281,181.08,16.75,3.9
+2021,Q3,Europe,Digital Workplace,1100,184.72,27.16,16.26
+2021,Q3,Europe,Cloud Solutions,1341,171.625,11.37,-6.88
+2021,Q3,Europe,Enterprise Computing,317,171.625,12.52,2.87
+2021,Q3,Asia-Pacific,Digital Workplace,591,197.65,20.13,3.22
+2021,Q3,Asia-Pacific,Cloud Solutions,409,155.48,22.77,8.35
+2021,Q3,Asia-Pacific,Enterprise Computing,1792,268.63,29.77,21.36
+2021,Q3,India,Digital Workplace,983,242.48,28.18,18.63
+2021,Q3,India,Cloud Solutions,908,285.82,48.2,41.92
+2021,Q3,India,Enterprise Computing,1071,138.28,9.02,-7.3
+2021,Q4,North America,Digital Workplace,1181,72.19,11.19,0.95
+2021,Q4,North America,Cloud Solutions,1929,66.11,9.6,-2.47
+2021,Q4,North America,Cloud Solutions,1763,225.77,38.66,24.88
+2021,Q4,Europe,Digital Workplace,1195,230.51,15.41,9.98
+2021,Q4,Europe,Cloud Solutions,1118,250.76,24.19,16.68
+2021,Q4,Europe,Enterprise Computing,831,101.83,12.68,-6.58
+2021,Q4,Asia-Pacific,Digital Workplace,1615,84.08,6.93,0.21
+2021,Q4,Asia-Pacific,Cloud Solutions,710,273.0,14.51,-0.15
+2021,Q4,Asia-Pacific,Enterprise Computing,1695,72.74,12.3,-0.79
+2021,Q4,India,Cloud Solutions,917,71.65,9.16,-6.85
+2021,Q4,India,Cloud Solutions,1334,281.21,52.23,45.65
+2021,Q4,India,Enterprise Computing,968,147.27,18.75,8.7
+2022,Q1,North America,Digital Workplace,1992,189.2,16.91,1.67
+2022,Q1,North America,Cloud Solutions,317,163.67,21.31,4.0
+2022,Q1,North America,Enterprise Computing,1170,164.08,17.36,8.67
+2022,Q1,Europe,Digital Workplace,900,171.625,12.55,-3.22
+2022,Q1,Europe,Cloud Solutions,446,213.15,34.8,17.78
+2022,Q1,Europe,Enterprise Computing,1043,56.36,3.37,-16.56
+2022,Q1,Asia-Pacific,Digital Workplace,491,276.11,25.6,7.87
+2022,Q1,Asia-Pacific,Cloud Solutions,746,66.35,4.22,-11.24
+2022,Q1,Asia-Pacific,Cloud Solutions,1260,186.42,36.9,25.22
+2022,Q1,India,Digital Workplace,1598,152.15,29.77,17.29
+2022,Q1,India,Cloud Solutions,279,198.57,27.33,9.06
+2022,Q1,India,Enterprise Computing,431,104.71,13.68,5.03
+2022,Q2,North America,Digital Workplace,1676,120.77,8.74,-7.71
+2022,Q2,North America,Cloud Solutions,1287,136.23,15.28,-3.0
+2022,Q2,North America,Enterprise Computing,1049,163.25,29.7,15.14
+2022,Q2,Europe,Digital Workplace,1375,154.99,8.59,2.27
+2022,Q2,Europe,Cloud Solutions,1615,200.1,20.72,4.29
+2022,Q2,Europe,Cloud Solutions,852,130.46,14.42,-0.66
+2022,Q2,Asia-Pacific,Cloud Solutions,418,252.95,23.69,15.23
+2022,Q2,Asia-Pacific,Cloud Solutions,1462,215.32,36.44,21.11
+2022,Q2,Asia-Pacific,Enterprise Computing,209,116.77,10.46,-8.08
+2022,Q2,India,Digital Workplace,1101,207.47,31.15,23.15
+2022,Q2,India,Cloud Solutions,683,87.1,8.81,-0.93
+2022,Q2,India,Enterprise Computing,1356,283.82,32.84,17.56
+2022,Q3,North America,Digital Workplace,1440,260.35,16.36,10.37
+2022,Q3,North America,Cloud Solutions,1711,194.85,13.21,-3.4
+2022,Q3,North America,Enterprise Computing,555,69.95,5.7,-0.2
+2022,Q3,Europe,Digital Workplace,1182,219.74,11.98,-3.47
+2022,Q3,Europe,Cloud Solutions,523,135.63,22.75,16.8
+2022,Q3,Europe,Cloud Solutions,495,131.01,8.64,-4.94
+2022,Q3,Asia-Pacific,Digital Workplace,1744,206.2,20.44,3.2
+2022,Q3,Asia-Pacific,Cloud Solutions,1208,207.43,41.14,35.18
+2022,Q3,Asia-Pacific,Enterprise Computing,207,248.46,17.8,6.26
+2022,Q3,India,Digital Workplace,886,104.56,11.35,-6.95
+2022,Q3,India,Cloud Solutions,1611,241.97,36.34,26.88
+2022,Q3,India,Enterprise Computing,1051,155.68,16.37,8.67
+2022,Q4,North America,Digital Workplace,784,243.84,15.12,0.52
+2022,Q4,North America,Cloud Solutions,1481,63.44,11.87,6.17
+2022,Q4,North America,Enterprise Computing,317,256.93,24.62,16.41
+2022,Q4,Europe,Digital Workplace,906,179.93,30.62,17.3
+2022,Q4,Europe,Cloud Solutions,1211,102.57,14.53,1.7
+2022,Q4,Europe,Enterprise Computing,980,80.17,4.62,-6.63
+2022,Q4,Asia-Pacific,Digital Workplace,1580,75.83,8.27,-10.48
+2022,Q4,Asia-Pacific,Cloud Solutions,1063,117.98,22.61,9.86
+2022,Q4,Asia-Pacific,Enterprise Computing,848,231.42,13.85,4.88
+2022,Q4,India,Digital Workplace,740,57.16,8.09,-10.66
+2022,Q4,India,Cloud Solutions,1193,195.5,37.02,30.45
+2022,Q4,India,Cloud Solutions,1896,53.39,5.58,-2.41
+2023,Q1,North America,Digital Workplace,1301,106.0,15.22,8.86
+2023,Q1,North America,Cloud Solutions,625,179.24,25.41,14.8
+2023,Q1,North America,Enterprise Computing,1011,89.7,16.12,10.52
+2023,Q1,Europe,Digital Workplace,1441,277.17,18.14,3.68
+2023,Q1,Europe,Cloud Solutions,485,222.57,13.87,8.02
+2023,Q1,Europe,Enterprise Computing,1743,127.54,10.19,2.58
+2023,Q1,Asia-Pacific,Digital Workplace,631,222.68,12.25,-6.6
+2023,Q1,Asia-Pacific,Cloud Solutions,1459,245.96,31.47,25.9
+2023,Q1,Asia-Pacific,Cloud Solutions,1568,66.13,13.07,6.12
+2023,Q1,India,Digital Workplace,1909,208.65,37.12,28.6
+2023,Q1,India,Cloud Solutions,1890,171.625,48.82,35.92
+2023,Q1,India,Enterprise Computing,702,277.59,43.25,36.3
+2023,Q2,North America,Digital Workplace,1559,104.72,14.8,6.57
+2023,Q2,North America,Cloud Solutions,738,291.73,44.54,37.49
+2023,Q2,North America,Enterprise Computing,1045,264.53,47.8,32.52
+2023,Q2,Europe,Digital Workplace,454,94.28,10.05,1.79
+2023,Q2,Europe,Cloud Solutions,214,56.06,5.5,-12.17
+2023,Q2,Europe,Enterprise Computing,1706,169.42,18.17,12.92
+2023,Q2,Asia-Pacific,Digital Workplace,449,75.59,6.03,-2.24
+2023,Q2,Asia-Pacific,Cloud Solutions,1566,173.81,27.45,21.07
+2023,Q2,Asia-Pacific,Enterprise Computing,1449,247.52,15.25,1.56
+2023,Q2,India,Digital Workplace,930,245.9,37.92,27.68
+2023,Q2,India,Cloud Solutions,1941,171.625,49.72,34.91
+2023,Q2,India,Enterprise Computing,1270,108.74,9.14,-0.41
+2023,Q3,North America,Cloud Solutions,359,216.2,25.31,10.09
+2023,Q3,North America,Cloud Solutions,1289,263.35,51.3,45.94
+2023,Q3,North America,Enterprise Computing,257,245.32,15.04,4.7
+2023,Q3,Europe,Digital Workplace,1203,114.14,22.47,13.07
+2023,Q3,Europe,Cloud Solutions,1731,145.96,21.52,15.61
+2023,Q3,Europe,Enterprise Computing,762,126.0,15.75,-0.35
+2023,Q3,Asia-Pacific,Digital Workplace,357,132.7,7.95,0.86
+2023,Q3,Asia-Pacific,Cloud Solutions,365,239.5,45.94,40.7
+2023,Q3,Asia-Pacific,Enterprise Computing,769,284.91,26.55,10.0
+2023,Q3,India,Digital Workplace,1198,73.29,13.61,-6.39
+2023,Q3,India,Cloud Solutions,1105,79.75,13.85,3.39
+2023,Q3,India,Enterprise Computing,716,239.4,12.03,-7.5
+2023,Q4,North America,Digital Workplace,1673,216.9,12.63,1.84
+2023,Q4,North America,Cloud Solutions,999,152.7,10.36,2.7
+2023,Q4,North America,Enterprise Computing,1588,292.33,52.69,36.86
+2023,Q4,Europe,Digital Workplace,1644,103.52,10.05,-9.63
+2023,Q4,Europe,Cloud Solutions,791,71.87,13.6,8.23
+2023,Q4,Europe,Cloud Solutions,273,57.33,7.87,-7.61
+2023,Q4,Asia-Pacific,Digital Workplace,695,262.65,22.5,3.8
+2023,Q4,Asia-Pacific,Cloud Solutions,1674,171.625,37.13,18.51
+2023,Q4,Asia-Pacific,Enterprise Computing,1108,213.87,12.59,1.8
+2023,Q4,India,Digital Workplace,1146,225.2,42.35,23.36
+2023,Q4,India,Cloud Solutions,1083,163.52,16.04,3.41
+2023,Q4,India,Enterprise Computing,1419,222.26,17.42,6.56
+2024,Q1,North America,Digital Workplace,1988,117.08,17.73,3.96
+2024,Q1,North America,Cloud Solutions,408,172.21,19.49,11.59
+2024,Q1,North America,Enterprise Computing,1601,145.43,10.54,3.91
+2024,Q1,Europe,Digital Workplace,218,197.51,24.06,10.76
+2024,Q1,Europe,Cloud Solutions,879,171.625,14.26,0.74
+2024,Q1,Europe,Enterprise Computing,1603,283.41,28.78,9.13
+2024,Q1,Asia-Pacific,Digital Workplace,838,259.74,18.84,1.73
+2024,Q1,Asia-Pacific,Cloud Solutions,396,67.62,7.42,-3.17
+2024,Q1,Asia-Pacific,Enterprise Computing,1134,57.44,8.49,-6.29
+2024,Q1,India,Digital Workplace,1202,108.5,17.67,9.64
+2024,Q1,India,Cloud Solutions,1497,96.37,13.1,-6.2
+2024,Q1,India,Enterprise Computing,1271,141.12,21.73,4.1
+2024,Q2,North America,Digital Workplace,235,173.48,9.44,3.46
+2024,Q2,North America,Cloud Solutions,1002,149.63,10.35,-3.95
+2024,Q2,North America,Cloud Solutions,1487,231.51,42.67,35.54
+2024,Q2,Europe,Digital Workplace,657,240.81,23.1,4.42
+2024,Q2,Europe,Cloud Solutions,446,108.11,12.54,-1.57
+2024,Q2,Europe,Enterprise Computing,1592,232.95,26.48,9.51
+2024,Q2,Asia-Pacific,Digital Workplace,1918,239.75,27.08,17.15
+2024,Q2,Asia-Pacific,Cloud Solutions,985,95.24,12.13,-3.5
+2024,Q2,Asia-Pacific,Enterprise Computing,310,230.47,37.06,22.82
+2024,Q2,India,Digital Workplace,624,258.07,23.71,13.84
+2024,Q2,India,Cloud Solutions,847,162.77,27.13,20.47
+2024,Q2,India,Enterprise Computing,1552,77.38,8.49,-7.45
+2024,Q3,North America,Digital Workplace,1301,143.73,21.1,7.02
+2024,Q3,North America,Cloud Solutions,1686,224.24,44.0,35.93
+2024,Q3,North America,Enterprise Computing,1485,237.95,23.26,14.64
+2024,Q3,Europe,Digital Workplace,1811,98.49,5.22,-11.76
+2024,Q3,Europe,Cloud Solutions,425,171.04,31.05,12.4
+2024,Q3,Europe,Enterprise Computing,1471,97.78,10.0,-5.33
+2024,Q3,Asia-Pacific,Digital Workplace,540,171.625,16.14,-3.58
+2024,Q3,Asia-Pacific,Cloud Solutions,1600,197.73,20.7,6.76
+2024,Q3,Asia-Pacific,Enterprise Computing,1867,171.625,11.45,-3.01
+2024,Q3,India,Digital Workplace,1827,164.92,12.98,1.92
+2024,Q3,India,Cloud Solutions,1532,171.625,6.03,-9.18
+2024,Q3,India,Enterprise Computing,1955,243.3,46.96,39.11
+2024,Q4,North America,Digital Workplace,1610,198.5,18.38,-1.27
+2024,Q4,North America,Cloud Solutions,1083,120.24,18.02,0.41
+2024,Q4,North America,Cloud Solutions,1762,105.15,9.69,-1.57
+2024,Q4,Europe,Digital Workplace,1290,153.65,24.32,14.44
+2024,Q4,Europe,Cloud Solutions,1763,210.85,37.69,28.95
+2024,Q4,Europe,Cloud Solutions,1152,198.15,14.55,-0.35
+2024,Q4,Asia-Pacific,Digital Workplace,1756,279.0,53.88,36.7
+2024,Q4,Asia-Pacific,Cloud Solutions,678,218.22,31.58,25.29
+2024,Q4,Asia-Pacific,Enterprise Computing,638,120.81,17.87,12.36
+2024,Q4,India,Digital Workplace,219,232.69,33.23,26.82
+2024,Q4,India,Cloud Solutions,1040,195.45,37.71,19.66
+2024,Q4,India,Enterprise Computing,1793,85.31,9.9,0.74
